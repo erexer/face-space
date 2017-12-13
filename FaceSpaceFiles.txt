@@ -2,4 +2,12 @@ AdaLi/bio nerd/CynthiaYang, SeanChandler/CynthiaYang/n
 AmyWang/nurse nerd/SeanChandler/ /n
 CynthiaYang/English nerd/AdaLi, SeanChandler/AdaLi, SeanChandler/n
 SeanChandler/physics nerd/AdaLi, AmyWang, CynthiaYang/CynthiaYang/y
+Bob/normal/Elizabeth, Fred, Max, Sarah/Max, Sarah/y
+Elizabeth/popular/Bob, Fred, George, Mary, Max, Sally, Sarah/George, Mary/y
+Fred/wild/Bob, Elizabeth, George, Sally/ /n
+George/lost an ear/Elizabeth, Fred, Sally/Elizabeth, Sally/y
+Mary/is not a little lamb/Elizabeth, Sally, Sarah/Elizabeth, Sally/y
+Max/is not a dog/Bob, Sally, Sarah/Bob, Sarah/y
+Sally/likes horses/Elizabeth, Fred, George, Mary, Max, Sarah/George, Mary/y
+Sarah/spells it with an h/Bob, Elizabeth, Mary, Max, Sally/Bob, Max/y
 
