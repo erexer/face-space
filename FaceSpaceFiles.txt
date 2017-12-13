@@ -1,0 +1,5 @@
+AdaLi/bio nerd/CynthiaYang, SeanChandler/CynthiaYang/n
+AmyWang/nurse nerd/SeanChandler/ /n
+CynthiaYang/English nerd/AdaLi, SeanChandler/AdaLi, SeanChandler/n
+SeanChandler/physics nerd/AdaLi, AmyWang, CynthiaYang/CynthiaYang/y
+
